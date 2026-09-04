@@ -19,9 +19,17 @@ I focus on developing strong foundations in **problem solving, algorithms, data 
 ### Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ### Programming Concepts
@@ -99,6 +107,7 @@ I’m exploring the engineering behind **local and open-source AI systems**, inc
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/GGUF-222222?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
@@ -129,6 +138,7 @@ Interested in connecting software intelligence with the physical world.
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
 Exploring:
@@ -136,6 +146,7 @@ Exploring:
 - Arduino
 - ESP32
 - ESP32-CAM
+- Raspberry Pi
 - Embedded C/C++
 - Sensors
 - Actuators
@@ -179,9 +190,9 @@ A Python-based graphical application for interacting with MySQL databases.
 
 ### 🌐 ESP32 & IoT Projects
 
-Experimental embedded projects involving **ESP32, ESP32-CAM, Arduino, sensors, wireless communication, and automation**.
+Experimental embedded projects involving **ESP32, ESP32-CAM, Arduino, Raspberry Pi, sensors, wireless communication, and automation**.
 
-**Technologies:** C/C++ • Arduino • ESP32 • IoT
+**Technologies:** C/C++ • Arduino • ESP32 • Raspberry Pi • IoT
 
 ---
 
@@ -189,9 +200,16 @@ Experimental embedded projects involving **ESP32, ESP32-CAM, Arduino, sensors, w
 
 ```text
 PROGRAMMING
+├── C
 ├── C++
 ├── Python
+├── Java
 ├── SQL
+├── HTML / CSS
+├── JavaScript
+├── Rust
+├── Go
+├── Kotlin
 ├── Data Structures & Algorithms
 ├── Object-Oriented Programming
 ├── Software Architecture
@@ -208,6 +226,7 @@ ARTIFICIAL INTELLIGENCE
 LOCAL AI
 ├── Ollama
 ├── Llama.cpp
+├── Hugging Face
 ├── GGUF
 ├── Quantization
 ├── Local Inference
@@ -217,6 +236,7 @@ HARDWARE
 ├── ESP32
 ├── Arduino
 ├── ESP32-CAM
+├── Raspberry Pi
 ├── Embedded Systems
 ├── IoT
 └── Robotics
@@ -249,6 +269,9 @@ I particularly enjoy exploring:
 
 - Advanced C++
 - Python
+- Java
+- Rust
+- Go
 - Data Structures & Algorithms
 - Machine Learning
 - Deep Learning
@@ -268,6 +291,11 @@ I particularly enjoy exploring:
 # 🧰 Development Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
