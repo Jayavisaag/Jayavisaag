@@ -30,6 +30,7 @@ I focus on developing strong foundations in **problem solving, algorithms, data 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### Programming Concepts
@@ -210,6 +211,7 @@ PROGRAMMING
 ├── Rust
 ├── Go
 ├── Kotlin
+├── PHP
 ├── Data Structures & Algorithms
 ├── Object-Oriented Programming
 ├── Software Architecture
